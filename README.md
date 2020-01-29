@@ -1,3 +1,5 @@
+Following along with the Packt Book React Material-UI, by Adam Boduch. That book has it's own Storybook build so this is the playground, by extension.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
